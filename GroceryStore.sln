@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore.Api", "GroceryStore.Api\GroceryStore.Api.csproj", "{C32A0998-D171-46E2-ACE8-8CCDBD6589C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore.IntegrationTests", "GroceryStore.IntegrationTests\GroceryStore.IntegrationTests.csproj", "{DB10BDB6-1010-4E92-BEC6-F77CFBC85A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore.UnitTests", "GroceryStore.UnitTests\GroceryStore.UnitTests.csproj", "{856E7890-AB63-49FD-A540-3D3C8B73A133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore.Data", "GroceryStore.Data\GroceryStore.Data.csproj", "{A15CD13E-4529-4F72-8C9D-DC8EF7260FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore.Business", "GroceryStore.Business\GroceryStore.Business.csproj", "{12E32357-60E1-43BD-A831-0901DC0B90D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore.Core", "GroceryStore.Core\GroceryStore.Core.csproj", "{F597A75C-BE1A-4749-9F81-FFB980B45864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32A0998-D171-46E2-ACE8-8CCDBD6589C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32A0998-D171-46E2-ACE8-8CCDBD6589C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32A0998-D171-46E2-ACE8-8CCDBD6589C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32A0998-D171-46E2-ACE8-8CCDBD6589C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB10BDB6-1010-4E92-BEC6-F77CFBC85A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB10BDB6-1010-4E92-BEC6-F77CFBC85A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB10BDB6-1010-4E92-BEC6-F77CFBC85A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB10BDB6-1010-4E92-BEC6-F77CFBC85A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856E7890-AB63-49FD-A540-3D3C8B73A133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856E7890-AB63-49FD-A540-3D3C8B73A133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856E7890-AB63-49FD-A540-3D3C8B73A133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856E7890-AB63-49FD-A540-3D3C8B73A133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15CD13E-4529-4F72-8C9D-DC8EF7260FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15CD13E-4529-4F72-8C9D-DC8EF7260FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15CD13E-4529-4F72-8C9D-DC8EF7260FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15CD13E-4529-4F72-8C9D-DC8EF7260FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E32357-60E1-43BD-A831-0901DC0B90D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E32357-60E1-43BD-A831-0901DC0B90D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E32357-60E1-43BD-A831-0901DC0B90D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E32357-60E1-43BD-A831-0901DC0B90D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F597A75C-BE1A-4749-9F81-FFB980B45864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F597A75C-BE1A-4749-9F81-FFB980B45864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F597A75C-BE1A-4749-9F81-FFB980B45864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F597A75C-BE1A-4749-9F81-FFB980B45864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
